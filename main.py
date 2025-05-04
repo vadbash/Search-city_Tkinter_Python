@@ -27,7 +27,7 @@ def send_id():
     querystring = {"lang":"en","country":"{}".format(country)}
 
     headers = {
-	"X-RapidAPI-Key": "4edf521ce9msh3f570c99c91a119p129795jsn8e6868d8768c",
+	"X-RapidAPI-Key": "Your_key",
 	"X-RapidAPI-Host": "foreca-weather.p.rapidapi.com"
     }
 
